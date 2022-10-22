@@ -1,3 +1,4 @@
+//run time check
 fetch("../json/admin.json")
     .then((res) => res.json())
     .then((data) => outputAdmin(data.users))
