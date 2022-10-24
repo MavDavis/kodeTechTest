@@ -1,4 +1,4 @@
-//run time check
+//see it it works again
 fetch("../json/admin.json")
     .then((res) => res.json())
     .then((data) => outputAdmin(data.users))
