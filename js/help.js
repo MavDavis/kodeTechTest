@@ -1,3 +1,4 @@
+// no vex
 let arrowDown = document.querySelectorAll(".bi-chevron-down");
 let arrowUp = document.querySelectorAll(".bi-chevron-up");
 let input = document.querySelector(".form-control");
